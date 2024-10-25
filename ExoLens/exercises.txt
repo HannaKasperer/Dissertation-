@@ -1,0 +1,41 @@
+ExoLens 
+- Download (clone) ExoLens from https://github.com/schulze61/ExoLens
+- Make the my_planet_star.py program running
+
+
+Exercise #1
+- Calculate the Core Mass Fraction (CMF_pl) of a planet from the mass and radius of the planet. Study how the
+uncertainties of CMF_pl depends on the uncertainties of R and M.
+
+
+Exercise #2
+- Calculate the CMF_star of a star (Sun, Alpha Cen, other?) from the Fe/Mg and Si/Mg abundance ratios by mole.
+- Study how the uncertainties of CMF_pl depends on the uncertainties of Fe/Mg and Si/Mg.
+
+
+---> Note! In stellar astronomy the abundances of elements are provided relative to the Sun and in “dex” (see Sect.
+“2.2. Nomenclature: the term ’metallicity’ in astronomy” in Adibekyan+19). To convert the classical stelalr
+abundance ratios to ratios by mole, absolute stellar abundances are needed. This conversion requires the
+reference solar abundances that can be taken from Adibekyan+2021 (Section "Stellar parameters and chemical
+abundances").
+
+Example:
+- Abundance of Mg of a star relative to the Sun: [Mg/H] = 0.1 dex (means 0.1 dex higher than that of the
+Sun).
+- Abundance of Si relative to the Sun: [Si/H] = -0.1 dex (0.1 dex less than that of the Sun).
+- In stellar astronomy the Mg/Si abundance ratio would be [Mg/Si] = [Mg/H] – [Si/H] = 0.2 dex. 
+- Given the Solar abundances of Mg (ε(Mg) = 107.6) and Si ( ε(Mg) = 107.51) the molar Mg/Si ratio of the star will be:
+Mg/Si = 10(7.6+0.1)/10(7.51-0.1) ≈ 1.95.
+
+References
+Adibekyan+21 - https://ui.adsabs.harvard.edu/abs/2021Sci...374..330A/abstract
+Adibekyan+19 - https://ui.adsabs.harvard.edu/abs/2019Geosc...9..105A/abstract
+Schulze+21 - https://ui.adsabs.harvard.edu/abs/2021PSJ.....2..113S/abstract
+
+
+Exercise #3
+- Take the M and R of the planets presented in Table S4 of Adibekyan+21 and calculate the CMF_pl. Compare the
+results with the ones of that table.
+- Take the abundances of the stars from Table S3 of Adibekyan+21 and calculate the CMF_star. Compare the
+results with the ones of that table.
+- For each planet calculate the probability that the CMF_pl is consistent with the CMF_star.
