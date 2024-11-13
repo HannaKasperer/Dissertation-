@@ -1,0 +1,34 @@
+ExoPlex
+- Download (clone) ExoPlex from https://github.com/CaymanUnterborn/ExoPlex
+
+
+Fix the ‘problems’ of the code:
+- In the “ExoPlex/burnman/utils/chemistry.py” file, replace the line in #31 with:
+file = '../ExoPlex/burnman/data/input_masses/atomic_masses.dat'
+
+- In the “ExoPlex/burnman/utils/misc.py” file, replace the line in #121 with:
+datalines = open('../ExoPlex/burnman/data/'+filename).readlines()
+
+
+Exercise #1
+Make the my_planet.py program running
+- Changing the Fe/Mg ratios [0.5, 1, 1.5, 2] and see how much the R and CMF changes (show in a plot)
+- Change also the other elemental ratios and check the impact on R and CMF (show in a plot)
+
+
+Exercise #2
+- Take the M and R of the Solar System rocky planets and by changing the Fe/Mg ratio get the best composition of
+the planet that matches the R. Compare the CMF with the reference values. The reference values of R, M, and
+CMF can be found in Adibekyan+21.
+- Take a star with M = 7.31 +/- 1.11 Mearth and R = 1.54 +/-0.14 Mearth. 
+- By changing the Fe/Mg ratio get the best composition of the planet that matches the observed R.
+- Repeat the process many times varying the M and R of the planet within their uncertainties to estimate the error
+of CMF.
+- From Table S4 of Adibekyan+21 select all the planets and perform a similar analysis to determine the CMF.
+
+
+References
+Unterborn+2018 - https://ui.adsabs.harvard.edu/abs/2018NatAs...2..297U/abstract (sect. 1.1.2 in methods)
+Documentation of ExoPlex
+Adibekyan+21 - https://ui.adsabs.harvard.edu/abs/2021Sci...374..330A/abstract
+Schulze+21 - https://ui.adsabs.harvard.edu/abs/2021PSJ.....2..113S/abstract
