@@ -1,0 +1,105 @@
+
+Target[GAIA DR3 704967037090946688](SIMBAD coordinates for GAIA DR3 704967037090946688 : 08 52 35.8, +28 19 50.9.): A total of 4 records were found matching the provided criteria(GAIA DR3 704967037090946688).
+
+Target[GAIA DR3 3107267177757848576](SIMBAD coordinates for GAIA DR3 3107267177757848576 : 06 43 49.4, -01 03 46.8.): A total of 3 records were found matching the provided criteria(GAIA DR3 3107267177757848576).
+
+Target[GAIA DR3 2582617711154563968](SIMBAD coordinates for GAIA DR3 2582617711154563968 : 00 52 19.1, +10 47 40.9.): A total of 24 records were found matching the provided criteria(GAIA DR3 2582617711154563968).
+
+Target[GAIA DR3 6259263137059042048](SIMBAD coordinates for GAIA DR3 6259263137059042048 : 15 12 59.5, -16 43 28.1.): A total of 35 records were found matching the provided criteria(GAIA DR3 6259263137059042048).
+
+Target[GAIA DR3 2643842302456085888](SIMBAD coordinates for GAIA DR3 2643842302456085888 : 23 27 04.8, -01 17 10.5.): A total of 64 records were found matching the provided criteria(GAIA DR3 2643842302456085888).
+
+Target[GAIA DR3 2643842302456085888](SIMBAD coordinates for GAIA DR3 2643842302456085888 : 23 27 04.8, -01 17 10.5.): A total of 64 records were found matching the provided criteria(GAIA DR3 2643842302456085888).
+
+Target[GAIA DR3 2643842302456085888](SIMBAD coordinates for GAIA DR3 2643842302456085888 : 23 27 04.8, -01 17 10.5.): A total of 64 records were found matching the provided criteria(GAIA DR3 2643842302456085888).
+
+Target[GAIA DR3 3583630934082556416](SIMBAD coordinates for GAIA DR3 3583630934082556416 : 12 27 29.5, -06 43 18.7.): A total of 1 records were found matching the provided criteria(GAIA DR3 3583630934082556416).
+
+Target[GAIA DR3 5902750168276592256](SIMBAD coordinates for GAIA DR3 5902750168276592256 : 15 21 48.1, -48 19 03.4.): A total of 2 records were found matching the provided criteria(GAIA DR3 5902750168276592256).
+
+Target[GAIA DR3 6258810550587404672](SIMBAD coordinates for GAIA DR3 6258810550587404672 : 15 26 58.0, -16 30 31.6.): A total of 2 records were found matching the provided criteria(GAIA DR3 6258810550587404672).
+
+Target[GAIA DR3 5068777809824976256](SIMBAD coordinates for GAIA DR3 5068777809824976256 : 02 27 28.3, -27 38 06.7.): A total of 2 records were found matching the provided criteria(GAIA DR3 5068777809824976256).
+
+Target[GAIA DR3 30398648945512960](SIMBAD coordinates for GAIA DR3 30398648945512960 : 03 16 42.6, +15 39 26.0.): A total of 3 records were found matching the provided criteria(GAIA DR3 30398648945512960).
+
+Target[GAIA DR3 6407428994690988928](SIMBAD coordinates for GAIA DR3 6407428994690988928 : 22 35 56.3, -59 51 52.0.): A total of 2 records were found matching the provided criteria(GAIA DR3 6407428994690988928).
+
+Target[GAIA DR3 2009481748875806976](SIMBAD coordinates for GAIA DR3 2009481748875806976 : 23 13 16.9, +57 10 06.0.): A total of 0 records were found matching the provided criteria(GAIA DR3 2009481748875806976).
+
+Target[GAIA DR3 2009481748875806976](SIMBAD coordinates for GAIA DR3 2009481748875806976 : 23 13 16.9, +57 10 06.0.): A total of 0 records were found matching the provided criteria(GAIA DR3 2009481748875806976).
+
+Target[GAIA DR3 4674216245427964416](SIMBAD coordinates for GAIA DR3 4674216245427964416 : 03 41 50.3, -62 46 01.4.): A total of 104 records were found matching the provided criteria(GAIA DR3 4674216245427964416).
+
+Target[GAIA DR3 4674216245427964416](SIMBAD coordinates for GAIA DR3 4674216245427964416 : 03 41 50.3, -62 46 01.4.): A total of 104 records were found matching the provided criteria(GAIA DR3 4674216245427964416).
+
+Target[GAIA DR3 2554032474712538880](SIMBAD coordinates for GAIA DR3 2554032474712538880 : 00 34 57.5, +04 22 53.2.): A total of 4 records were found matching the provided criteria(GAIA DR3 2554032474712538880).
+
+Target[GAIA DR3 606477252238780160](SIMBAD coordinates for GAIA DR3 606477252238780160 : 09 21 21.4, +14 22 04.5.): A total of 1 records were found matching the provided criteria(GAIA DR3 606477252238780160).
+
+Target[GAIA DR3 2993561629444856960](SIMBAD coordinates for GAIA DR3 2993561629444856960 : 06 12 13.9, -14 39 00.0.): A total of 85 records were found matching the provided criteria(GAIA DR3 2993561629444856960).
+
+Target[GAIA DR3 53006669599267328](SIMBAD coordinates for GAIA DR3 53006669599267328 : 03 59 33.5, +21 17 55.2.): A total of 39 records were found matching the provided criteria(GAIA DR3 53006669599267328).
+
+Target[GAIA DR3 3580920878437938688](SIMBAD coordinates for GAIA DR3 3580920878437938688 : 12 11 00.3, -09 45 54.7.): A total of 2 records were found matching the provided criteria(GAIA DR3 3580920878437938688).
+
+Target[GAIA DR3 2643952940813536768](SIMBAD coordinates for GAIA DR3 2643952940813536768 : 23 23 39.9, -01 11 21.4.): A total of 2 records were found matching the provided criteria(GAIA DR3 2643952940813536768).
+
+Target[GAIA DR3 2556231154370582400](SIMBAD coordinates for GAIA DR3 2556231154370582400 : 00 45 55.2, +06 20 49.1.): A total of 2 records were found matching the provided criteria(GAIA DR3 2556231154370582400).
+
+Target[GAIA DR3 2597119620985658496](SIMBAD coordinates for GAIA DR3 2597119620985658496 : 22 48 07.5, -14 29 40.8.): A total of 1 records were found matching the provided criteria(GAIA DR3 2597119620985658496).
+
+Target[GAIA DR3 3409148746676599168](SIMBAD coordinates for GAIA DR3 3409148746676599168 : 05 05 46.9, +21 32 55.0.): A total of 1 records were found matching the provided criteria(GAIA DR3 3409148746676599168).
+
+Target[GAIA DR3 6237129658760381056](SIMBAD coordinates for GAIA DR3 6237129658760381056 : 16 00 08.0, -23 11 21.3.): A total of 43 records were found matching the provided criteria(GAIA DR3 6237129658760381056).
+
+Target[GAIA DR3 2132155017099178624](SIMBAD coordinates for GAIA DR3 2132155017099178624 : 19 02 43.0, +50 14 28.7.): A total of 0 records were found matching the provided criteria(GAIA DR3 2132155017099178624).
+
+Target[GAIA DR3 2086625752425381632](SIMBAD coordinates for GAIA DR3 2086625752425381632 : 19 48 06.7, +48 12 30.9.): A total of 0 records were found matching the provided criteria(GAIA DR3 2086625752425381632).
+
+Target[GAIA DR3 2105318412166111232](SIMBAD coordinates for GAIA DR3 2105318412166111232 : 18 49 58.1, +43 58 48.6.): A total of 0 records were found matching the provided criteria(GAIA DR3 2105318412166111232).
+
+Target[GAIA DR3 2105318412166111232](SIMBAD coordinates for GAIA DR3 2105318412166111232 : 18 49 58.1, +43 58 48.6.): A total of 0 records were found matching the provided criteria(GAIA DR3 2105318412166111232).
+
+Target[GAIA DR3 2102548708017562112](SIMBAD coordinates for GAIA DR3 2102548708017562112 : 19 10 47.5, +42 20 19.3.): A total of 0 records were found matching the provided criteria(GAIA DR3 2102548708017562112).
+
+Target[GAIA DR3 2099606483621385216](SIMBAD coordinates for GAIA DR3 2099606483621385216 : 19 09 26.8, +38 42 50.4.): A total of 0 records were found matching the provided criteria(GAIA DR3 2099606483621385216).
+
+Target[GAIA DR3 2135019107451751168](SIMBAD coordinates for GAIA DR3 2135019107451751168 : 19 36 52.5, +49 28 45.2.): A total of 0 records were found matching the provided criteria(GAIA DR3 2135019107451751168).
+
+Target[GAIA DR3 2129931456691176576](SIMBAD coordinates for GAIA DR3 2129931456691176576 : 19 25 00.0, +49 13 54.6.): A total of 0 records were found matching the provided criteria(GAIA DR3 2129931456691176576).
+
+Target[GAIA DR3 2078373642776670080](SIMBAD coordinates for GAIA DR3 2078373642776670080 : 19 34 58.0, +44 26 53.9.): A total of 0 records were found matching the provided criteria(GAIA DR3 2078373642776670080).
+
+Target[GAIA DR3 2102316985943863424](SIMBAD coordinates for GAIA DR3 2102316985943863424 : 19 15 50.6, +42 15 54.0.): A total of 0 records were found matching the provided criteria(GAIA DR3 2102316985943863424).
+
+Target[GAIA DR3 2102119176929154304](SIMBAD coordinates for GAIA DR3 2102119176929154304 : 19 14 45.2, +41 09 04.2.): A total of 0 records were found matching the provided criteria(GAIA DR3 2102119176929154304).
+
+Target[GAIA DR3 2076328963475704576](SIMBAD coordinates for GAIA DR3 2076328963475704576 : 19 44 27.0, +39 58 43.5.): A total of 0 records were found matching the provided criteria(GAIA DR3 2076328963475704576).
+
+Target[GAIA DR3 2052747119115620352](SIMBAD coordinates for GAIA DR3 2052747119115620352 : 19 25 40.3, +38 40 20.4.): A total of 0 records were found matching the provided criteria(GAIA DR3 2052747119115620352).
+
+Target[GAIA DR3 2274696151198328960](SIMBAD coordinates for GAIA DR3 2274696151198328960 : 20 21 53.8, +70 56 37.6.): A total of 0 records were found matching the provided criteria(GAIA DR3 2274696151198328960).
+
+Target[GAIA DR3 2265406171296997888](SIMBAD coordinates for GAIA DR3 2265406171296997888 : 18 41 18.4, +70 17 23.7.): A total of 0 records were found matching the provided criteria(GAIA DR3 2265406171296997888).
+
+Target[GAIA DR3 1491634483976350720](SIMBAD coordinates for GAIA DR3 1491634483976350720 : 14 27 41.7, +41 57 12.3.): A total of 0 records were found matching the provided criteria(GAIA DR3 1491634483976350720).
+
+Target[GAIA DR3 2318295979126499200](SIMBAD coordinates for GAIA DR3 2318295979126499200 : 00 29 12.3, -30 27 13.4.): A total of 104 records were found matching the provided criteria(GAIA DR3 2318295979126499200).
+
+Target[GAIA DR3 1476485996883837184](SIMBAD coordinates for GAIA DR3 1476485996883837184 : 13 25 07.9, +38 55 20.9.): A total of 0 records were found matching the provided criteria(GAIA DR3 1476485996883837184).
+
+Target[GAIA DR3 2405081733281425280](SIMBAD coordinates for GAIA DR3 2405081733281425280 : 23 16 55.5, -18 36 23.9.): A total of 80 records were found matching the provided criteria(GAIA DR3 2405081733281425280).
+
+Target[GAIA DR3 2908664557091200768](SIMBAD coordinates for GAIA DR3 2908664557091200768 : 05 33 04.6, -26 43 28.2.): A total of 2 records were found matching the provided criteria(GAIA DR3 2908664557091200768).
+
+Target[GAIA DR3 5509620021956148736](SIMBAD coordinates for GAIA DR3 5509620021956148736 : 07 06 13.9, -47 35 13.8.): A total of 2 records were found matching the provided criteria(GAIA DR3 5509620021956148736).
+
+Target[GAIA DR3 3850421005290172416](SIMBAD coordinates for GAIA DR3 3850421005290172416 : 09 52 44.5, +06 12 58.9.): A total of 2 records were found matching the provided criteria(GAIA DR3 3850421005290172416).
+
+Target[GAIA DR3 5392409372314518656](SIMBAD coordinates for GAIA DR3 5392409372314518656 : 10 37 38.1, -40 53 18.0.): A total of 0 records were found matching the provided criteria(GAIA DR3 5392409372314518656).
+
+Target[GAIA DR3 6230733559097425152](SIMBAD coordinates for GAIA DR3 6230733559097425152 : 15 00 19.3, -24 27 14.6.): A total of 1 records were found matching the provided criteria(GAIA DR3 6230733559097425152).
+
+Target[GAIA DR3 2613413008919918976](SIMBAD coordinates for GAIA DR3 2613413008919918976 : 22 04 48.7, -12 01 07.9.): A total of 31 records were found matching the provided criteria(GAIA DR3 2613413008919918976).
+

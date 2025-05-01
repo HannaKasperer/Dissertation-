@@ -1,0 +1,19 @@
+LISTS DESCRIPTIONS
+
+big_planet_list_141024
+all exoplanets downloaded on the 14.10.24 from Planet S
+
+dr3.txt
+file with the gaia_dr3_id of my stars (that are already filters with Re and Teff) to be put into ESO archive 
+
+main_sample
+this is my 32 planets / 29 stars MAIN SAMPLE LIST 
+
+planet_list
+big_planet_list_141024 filtered by Re and Teff
+
+spectra.txt
+OUTPUT of ESO archive
+
+spectra_clear.txt
+OUTPUT of ESO archive cleared so I can crossmatch it with planet_list to reach my main sample
